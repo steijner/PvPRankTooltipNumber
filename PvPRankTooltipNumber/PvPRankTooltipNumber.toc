@@ -1,0 +1,17 @@
+## Interface: 90105
+## Title: PvP Rank Tooltip Number
+## Author: Swarleey-Spineshatter
+## Version: 1.0
+
+# TaintLess [23-09-09]
+# https://www.townlong-yak.com/addons/taintless
+TaintLess.xml
+
+# Libraries
+Libs\Libs.xml
+
+# Addon localization
+Locale\Locale.xml
+
+# Addon core
+Core\Core.xml
